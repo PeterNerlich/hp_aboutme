@@ -1,0 +1,96 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #222;
+}
+
+h1, h2, h3, h4, h5, p, a {
+	color: #BBB;
+	font-family: "Ubuntu", -apple-system, "Oxygen", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+header {
+	background-color: rgba(143,144,138,0.5);
+	padding: 40px;
+}
+
+section {
+	background-color: rgba(143,144,138,0.2);
+	margin: 0;
+	padding: 0;
+}
+
+footer {
+	background-color: rgba(143,144,138,0.5);
+	padding: 30px 60px;
+}
+
+header h1, header h2, header h3, header h4, header h5, header p, header a, footer h1, footer h2, footer h3, footer h4, footer h5, footer p, footer a {
+	margin: 0;
+}
+
+
+.flexbox-grid {
+	user-select: none;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+}
+.flexbox-grid > * {
+	flex: 1 0 auto;
+}
+.flexbox-grid figure {
+	position: relative;
+	min-width: 200px;
+	height: 150px;
+	margin: 5px;
+	border-radius: 3px;
+	background-size: cover !important;
+	box-shadow: inset 0 -40px 0 0 rgba(0,0,0,.1);
+	transition: all .2s ease-in-out;
+}
+.flexbox-grid figure:hover {
+	box-shadow: inset 0 -150px 0 0 rgba(0,0,0,.5);
+}
+.flexbox-grid figcaption {
+	position: absolute;
+	width: 100%;
+	font-weight: 300;
+	text-align: center;
+	color: #f4f4f4;
+	text-shadow: 0 0 3px #000;
+	bottom: 10px;
+	transition: all .2s ease-in-out;
+}
+.flexbox-grid figure:hover figcaption {
+	bottom: 60px;
+}
+
+.flexbox-grid figure.facebook {
+	background: url(http://thehydrocafe.com/wp-content/uploads/2015/05/official-facebook-logo-slide.jpg) no-repeat center;
+}
+.flexbox-grid figure.twitter {
+	background: url(http://tec-church.com/wp-content/uploads/2013/04/Twitter-banner.jpg) no-repeat center;
+}
+.flexbox-grid figure.youtube {
+	background: url(https://thedigitaljawbreaker.files.wordpress.com/2014/10/youtube-logo.jpg) no-repeat center;
+}
+.flexbox-grid figure.soundcloud {
+	background: url(http://jtvimages-11d0.kxcdn.com/wp-content/uploads/2015/06/soundcloud.png) no-repeat center;
+}
+.flexbox-grid figure.uberspacede {
+	background: url(https://blog.uberspace.de/content/images/2014/10/uberspace-blog-dark2.jpg) no-repeat center;
+}
+.flexbox-grid figure.stackoverflow {
+	background: url(http://cdn.sstatic.net/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a) no-repeat center;
+}
+.flexbox-grid figure.askubuntu {
+	background: url(http://cdn.sstatic.net/askubuntu/img/apple-touch-icon.png) no-repeat center;
+}
+.flexbox-grid figure.deviantart {
+	background: url(http://logok.org/wp-content/uploads/2014/12/DeviantArt-logo.png) no-repeat center;
+}
+
