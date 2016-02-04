@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="960"
+   height="520"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="askubuntu.svg">
+  <defs
+     id="defs2818">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2824" />
+    <inkscape:perspective
+       id="perspective2846"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9445436"
+     inkscape:cx="462.25341"
+     inkscape:cy="230.71337"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,456)">
+    <rect
+       style="opacity:1;fill:#dd4c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+       id="rect4138"
+       width="960"
+       height="520"
+       x="0"
+       y="-456" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 479.31715,-329.19492 c -71.76158,0 -129.90119,59.63028 -129.90119,133.19492 0,73.56464 58.13961,133.194921 129.90119,133.194921 25.33521,0 48.98125,-7.469698 68.96733,-20.324676 l 62.29956,18.31631 -18.31631,-65.312105 c 10.81616,-19.43519 16.99079,-41.89731 16.99079,-65.87445 0,-73.56464 -58.17979,-133.19492 -129.94137,-133.19492 z"
+       id="path2860"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:51.41420364px;font-family:'Bitstream Vera Sans';fill:#dd4c00;fill-opacity:1;stroke:none;"
+       x="374.65097"
+       y="-142.97139"
+       id="text2825"><tspan
+         sodipodi:role="line"
+         id="tspan2827"
+         x="374.65097"
+         y="-142.97139"
+         style="font-size:138.81835938px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#dd4c00;fill-opacity:1;">ask</tspan></text>
+  </g>
+</svg>
