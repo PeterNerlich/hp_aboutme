@@ -74,7 +74,7 @@ header h1, header h2, header h3, header h4, header h5, header p, header a, foote
 	width: 100%;
 	font-weight: 300;
 	text-align: center;
-	color: #f4f4f4;
+	color: #fff;
 	text-shadow: 0 0 3px #000;
 	bottom: 10px;
 	transition: all .2s ease-in-out;
