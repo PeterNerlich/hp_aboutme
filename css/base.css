@@ -26,6 +26,7 @@ section {
 footer {
 	background-color: rgba(143,144,138,0.5);
 	padding: 30px 60px;
+	text-align: center;
 }
 
 header h1, header h2, header h3, header h4, header h5, header p, header a, footer h1, footer h2, footer h3, footer h4, footer h5, footer p, footer a {
