@@ -213,7 +213,11 @@ header h1, header h2, header h3, header h4, header h5, header p, header a, foote
 	background-size: cover;
 }
 .flexbox-grid figure.uberspacede .bg {
-	background: url(../img/banner/uberspacede.svg) no-repeat center;
+	background: url(../img/banner/uberspacede.png) no-repeat center;
+	background-size: cover;
+}
+.flexbox-grid figure.codepen .bg {
+	background: url(../img/banner/codepen.svg) no-repeat center;
 	background-size: cover;
 }
 .flexbox-grid figure.stackoverflow .bg {
