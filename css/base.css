@@ -212,8 +212,8 @@ header h1, header h2, header h3, header h4, header h5, header p, header a, foote
 	background: url(../img/banner/github.svg) no-repeat center;
 	background-size: cover;
 }
-.flexbox-grid figure.uberspacede .bg {
-	background: url(../img/banner/uberspacede.png) no-repeat center;
+.flexbox-grid figure.uberspace .bg {
+	background: url(../img/banner/uberspace.png) no-repeat center;
 	background-size: cover;
 }
 .flexbox-grid figure.codepen .bg {
